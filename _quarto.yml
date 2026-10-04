@@ -4,6 +4,7 @@ project:
   resources:
     - styles.css
     - googlefcbd9973d8740692.html
+    - CNAME
 
 website:
   navbar:
